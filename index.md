@@ -5,3 +5,5 @@
 # trying to make a file that doesn't sync with online version
 
 # adding some lines in github
+
+Here's some italic text 
