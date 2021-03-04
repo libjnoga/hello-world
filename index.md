@@ -7,3 +7,5 @@
 # adding some lines in github
 
 # Here's some *italic* text 
+
+Here's some **bold** text 
